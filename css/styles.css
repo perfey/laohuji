@@ -55,3 +55,8 @@ body {
 	cursor: pointer;
 	clear: both;
 }
+.result {
+	text-align: center;
+	color: #ffffff;
+	padding-top: 20px;
+}
